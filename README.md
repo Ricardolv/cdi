@@ -1,1 +1,1 @@
-# CDI Contexts and dependency injetion 
+# CDI Contexts and dependency injection 
