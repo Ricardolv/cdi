@@ -5,7 +5,7 @@
 	<groupId>br.com.richard</groupId>
 	<artifactId>exemploCDI</artifactId>
 	<version>1.0.0</version>
-	<packaging>war</packaging>
+	<packaging>pom</packaging>
 
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
@@ -51,4 +51,9 @@
 		</plugins>
 	</build>
 
+	<modules>
+		<module>escoposBeans</module>
+		<module>pontosInjecao</module>
+		<module>qualificadores</module>
+	</modules>
 </project>
