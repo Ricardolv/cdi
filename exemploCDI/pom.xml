@@ -55,5 +55,7 @@
 		<module>escoposBeans</module>
 		<module>pontosInjecao</module>
 		<module>qualificadores</module>
+		<module>metodosProdutores</module>
+		<module>viewScopedCDI</module>
 	</modules>
 </project>
